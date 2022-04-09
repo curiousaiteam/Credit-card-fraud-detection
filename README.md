@@ -12,3 +12,13 @@ Therefore , there are two things that could be done:
 2. Work with better metrics to understand the capability of the machine learning models instead of just accuracy.
 eg: Kappa score takes into account the class distribution. 
 
+
+Class imbalance: Non fraudulent cases vs Fraudulent cases
+![image](https://user-images.githubusercontent.com/94743007/162557086-43e8467b-4746-4d76-9668-296cb5c08b6c.png)
+
+Confusion matrix using random forest classifier
+![image](https://user-images.githubusercontent.com/94743007/162557106-271e6841-03de-43c9-b728-c2ce0996a6ad.png)
+
+
+![image](https://user-images.githubusercontent.com/94743007/162557136-6e97045d-41d3-4188-9649-d2e2cac42184.png)
+
